@@ -1,0 +1,12 @@
+*.map
+*.elf
+*.gem
+*.o
+*.so
+*.dll
+*.lst
+tmp/*
+*/**/.git
+toolchain
+!.gitignore
+.gdbinit
